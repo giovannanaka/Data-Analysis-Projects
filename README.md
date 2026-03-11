@@ -1,15 +1,20 @@
-This repository contains two Python automation projects demonstrating
-data processing and workflow automation using pandas and Python.
+# Data Analysis Projects
 
-Projects included:
+This repository contains small Python projects demonstrating
+data automation and analysis workflows.
 
-1. Excel Data Automation
-   - Loads and cleans Excel data
-   - Splits data into sheets
-   - Recombines datasets
-   - Generates summary analysis
+## Projects
 
-2. Automated File Sorter
-   - Organizes CSV and Excel files automatically
-   - Loads CSV data
-   - Performs basic sales analysis and visualization
+### Excel Data Automation
+Automates Excel data processing using pandas:
+- Data cleaning
+- Sheet generation
+- Dataset merging
+- Summary analysis
+
+### Automated File Sorter
+Automates file organization and basic data preparation:
+- Detects file types
+- Creates folders
+- Moves files automatically
+- Performs simple sales analysis and visualization
